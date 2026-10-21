@@ -1,0 +1,6 @@
+crear_bd()
+obtener_incidencias()
+obtener_incidencia(id_incidencia)
+insertar_incidencia(titulo, tipo, prioridad, estado, descripcion)
+actualizar_incidencia(id_incidencia, titulo, tipo, prioridad, estado, descripcion)
+eliminar_incidencia(id_incidencia)
